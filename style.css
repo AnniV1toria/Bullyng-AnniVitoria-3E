@@ -1,0 +1,34 @@
+body{
+  font-family: Arial, sans-serit;
+  margin: 0;
+  padding: 0;
+  background:#ffffff;
+  }
+
+header{
+  background-color:#52cbff;
+  color:white;
+  padding:1em 0;
+  text-align: center;
+}
+
+nav{
+  background-color:#016e83;
+  overflow: hidden;
+}
+
+nav a{
+ color:#ffffff;
+  display: block;
+  padding: 14px 16px;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  font-Weight: bold;
+  transition:1s all;
+}
+
+
+nav a:hover{
+  background-color:#d8d0d0;
+  color:black
